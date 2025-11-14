@@ -1,4 +1,4 @@
-Multimodal PII Redaction System (USYD Capstone 2025-1)
+Multimodal PII Redaction System 
 
 This project is a full-stack multimodal privacy-preservation system designed to automatically detect, classify, and redact sensitive personal information (PII) from user-testing videos.
 It processes audio, screen text, and visual content, applies intelligent redaction (audio beep/silence, video mosaics), and provides a human-in-the-loop interface for reviewing results.
